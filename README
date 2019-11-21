@@ -1,0 +1,4 @@
+Install MongDB database using the following link
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+
+Make sure before the application is run, DB is running
